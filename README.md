@@ -16,3 +16,6 @@ The second chunk uses the `transformers` library: using the `cardiffnlp/twitter-
 
 (3)
 The last chunk uses the hugging face `transformers/pipeline` to analyze the text. https://huggingface.co/docs/transformers/main_classes/pipelines
+
+#Use:
+Just extract Archive.zip in the same directory and run `python3 sentiment_analyzer.py`.
